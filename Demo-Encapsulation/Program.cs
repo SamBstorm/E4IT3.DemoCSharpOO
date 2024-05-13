@@ -9,7 +9,6 @@
             //log1.username = "SamBStorm";
             log1.Username = "   Admin ";
             //log1.Password = "password";
-
             Console.WriteLine($"Le login est sauvegardé!");
 
             Console.WriteLine("Veuillez vous identifier :");

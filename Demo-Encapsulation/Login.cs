@@ -29,5 +29,9 @@ namespace Demo_Encapsulation
         {
             return user_name == _username && Password == pwd;
         }
+
+        //SNIPPETS :
+        //prop : permet de créer une auto-propriété
+        //propfull : permet de créer une propriété et sa variable déjà lié
     }
 }
