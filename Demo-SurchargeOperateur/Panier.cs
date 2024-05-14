@@ -42,5 +42,14 @@ namespace Demo_SurchargeOperateur
             left.AjouterFruit(right);
             return left;
         }
+
+        public static bool operator == (Panier left, Panier right)
+        {
+            return left.Count == right.Count;
+        }
+
+        public static bool operator != (Panier left, Panier right) {
+            return !(left == right);
+        }
     }
 }
