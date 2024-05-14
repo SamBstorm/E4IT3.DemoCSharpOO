@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Indexeur", "Demo-Index
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Indexeur-Cartes", "Demo-Indexeur-Cartes\Demo-Indexeur-Cartes.csproj", "{4023BA7C-AFF5-411E-A4D4-EC1BDF0C7F84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-SurchargeOperateur", "Demo-SurchargeOperateur\Demo-SurchargeOperateur.csproj", "{323AAC03-3FC0-486A-9238-370EFF81698B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4023BA7C-AFF5-411E-A4D4-EC1BDF0C7F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4023BA7C-AFF5-411E-A4D4-EC1BDF0C7F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4023BA7C-AFF5-411E-A4D4-EC1BDF0C7F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323AAC03-3FC0-486A-9238-370EFF81698B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323AAC03-3FC0-486A-9238-370EFF81698B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323AAC03-3FC0-486A-9238-370EFF81698B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323AAC03-3FC0-486A-9238-370EFF81698B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
